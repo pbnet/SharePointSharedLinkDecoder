@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ApplicationIcon>decode_3521095.ico</ApplicationIcon>
+    <Title>SharePoint Shared Links Decoder</Title>
+    <Description>SharePoint Shared Links Decoder program</Description>
+    <Copyright>© 2025 Andrei-Emilian Rachita</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="decode_3521095.ico" />
+  </ItemGroup>
+
+</Project>

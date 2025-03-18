@@ -30,6 +30,9 @@ F. An internal character set to define further details regarding the sharing. If
 E. This parameter section is added by default behind each share-link.
 
 d= xxxx – this will help creating a unique URL to allow opening the file in the browser. If you remove this parameter, you’ll get a download request. This parameter is only added when you share with People with existing access.
+
 Csf=1 – added when sharing with People with existing access
+
 Web=1 – opens the file in the browser
+
 E= xxxx – The purpose of this parameter isn’t really known; if you remove it, the Share will work the same way.
